@@ -4,7 +4,7 @@ description: >-
   'spirit'
 ---
 
-# The 3 Esoteric Disciplines of Kabbalah
+# The 3 Disciplines of Kabbalah
 
 B"H   Kabbalah is a collective terms for several branches of the esoteric study of the Torah of Moshe Rabenu. In general these can be categorized as:
 

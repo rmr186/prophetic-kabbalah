@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Prophetic Kabbalah & Computer Science](README.md)
-* [The 3 Esoteric Disciplines of Kabbalah](prophetic--kabbalah.md)
-* [Computational Kabbalah Example](computational-kabbalah-example.md)
+* [Kabbalah & Computer Science](README.md)
+* [The 3 Disciplines of Kabbalah](prophetic--kabbalah.md)
+* [5-Dimensional Space Notation](computational-kabbalah-example.md)
 
 ## 36 Prophetic Mysteries
 
