@@ -1,10 +1,12 @@
 ---
-description: For the previously uninitiated...
+description: >-
+  The ancient esoteric teachings of the Torah expound on 'language', 'mind',
+  'spirit'
 ---
 
-# Quick overview of kabbalah
+# The 3 Esoteric Disciplines of Kabbalah
 
-Kabbalah is a collective terms for several branches of the esoteric study of the Torah of Moshe Rabenu. In general these can be categorized as:
+B"H   Kabbalah is a collective terms for several branches of the esoteric study of the Torah of Moshe Rabenu. In general these can be categorized as:
 
 * Theoretical kabbalah: outlining the process of creation ex-nihilu using a metaphoric language paralleling the human experience.
 * Prophetic kabbalah: the esoteric traditions of the prophets regarding the intricate combinatorics & series of the Hebrew letters, their meanings, and transfiguration according to the ancient formulas known as 'yichudim'.
