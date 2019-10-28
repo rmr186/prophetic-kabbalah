@@ -4,8 +4,6 @@ description: kabbalah language constructs to model meta-physical phenomena
 
 # 5-Dimensional Space Notation
 
-## Vector-space math as a key to holy-name sequences
-
 B"H   A core concept in kabbalah is that creation \(which is incidentally concurrent with 'the human experience', as shall be discussed elsewhere\) 'takes place' in a 5-dimensional continuum comprised of:
 
 * The 3 dimensions of 'Space'

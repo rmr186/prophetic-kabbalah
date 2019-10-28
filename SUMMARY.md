@@ -3,6 +3,7 @@
 * [Kabbalah, Math, & Computer Science](README.md)
 * [The 3 Disciplines of Kabbalah](prophetic--kabbalah.md)
 * [5-Dimensional Space Notation](computational-kabbalah-example.md)
+* [Holy-Letter-Name Sequence Patterns](holy-letter-name-sequence-patterns.md)
 
 ## 36 Prophetic Mysteries <a id="36-mysteries"></a>
 
