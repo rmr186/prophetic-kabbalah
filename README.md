@@ -2,7 +2,7 @@
 description: Computational & mathematical models to unlock ancient kabbalistic mysteries
 ---
 
-# Kabbalah & Computer Science
+# Kabbalah, Math, & Computer Science
 
 ## Can I become who I want to be?
 

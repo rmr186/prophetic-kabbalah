@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kabbalah & Computer Science](README.md)
+* [Kabbalah, Math, & Computer Science](README.md)
 * [The 3 Disciplines of Kabbalah](prophetic--kabbalah.md)
 * [5-Dimensional Space Notation](computational-kabbalah-example.md)
 
